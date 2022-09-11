@@ -7,8 +7,7 @@ From web scraping we basically understand that, we need to extract some useful d
 --
 ## How we built it
 - Initialize the npm package and then install the other dependencies package like express, axios and cherrio.
-- Require each of the package and create a app using express module
--Now by using axios method to data data from html file using class from the 
+- Require each of the package and create a app using express module Now by using axios method to data from html file using class from the 
 [The Guardian New site](https://www.theguardian.com/international) and get the response as a promise .
 - And Push each element by same class in array and send the data to local host by get method.
 - Run the code 
